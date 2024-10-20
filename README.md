@@ -25,7 +25,7 @@ _**ATFRSD(-W) is described in section III-A._
 _ATFRSD_ and _ATFRSD-W_ are located in the folder data* and are named separately. The temperature fields in _T.mat_ or _TT.mat_ is to be measured, is also called target fields. The temperature fields in _TR.mat_ or _TTR.mat_ is reconstructed by traditional method, and its details are described in the paper.**
 
 _*The folder of dataset can be downloaded in .zip format by clicking [here](https://drive.google.com/file/d/1radW5EFc8m2HWNQKwJXCgR1lnLcn3bRw/view?usp=sharing). You need to unzip it in your project after downloading. Please make sure that the downloaded files are hashed correctly and placed in the correct path.
-(SHA256: 2a8e4d8b26d08d00f5c1e78ddf5be40243713e891c033c169b03a30e20a5675f)_
+(SHA256: 2a8e4d8b26d08d00f5c1e78ddf5be40243713e891c033c169b03a30e20a5675f)_<br/>
 _**You can also generate datasets tailored to your needs based on the details provided in our paper, as long as abiding by academic norms._
 
 ### Parameters
